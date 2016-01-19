@@ -17,33 +17,32 @@ keywords:
   - retainer
   - certain
 description: 'How much will IT cost?(I know this is one of your BIG Questions.) Attorney Ed Napier Fees are based on such factors as the degree of difficulty of a particular legal task, the amount of time involved, and the type of case. Most services normally involve research, investigation and case preparation.'
-datePublished: '2015-12-23T19:37:41.366Z'
-dateModified: '2015-12-23T19:37:08.516Z'
+datePublished: '2016-01-19T23:23:15.403Z'
+dateModified: '2016-01-19T21:53:37.148Z'
 author: []
 related: []
 app_links: []
 title: Douglasville Attorney - Legal Fees
+sourcePath: _posts/2015-12-23-douglasville-attorney-legal-fees.md
+published: true
 authors: []
 publisher:
   name: Napierlawllc
   domain: www.napierlawllc.com
   url: 'http://www.napierlawllc.com'
   favicon: null
-sourcePath: _posts/2015-12-23-douglasville-attorney-legal-fees.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Douglasville Attorney - Legal Fees</h1><p>How much will IT cost?(I know this is one of your BIG Questions.) Attorney Ed Napier Fees are based on such factors as the degree of difficulty of a particular legal task, the amount of time involved, and the type of case. Most services normally involve research, investigation and case preparation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e629ce1e0e99f08086713dc1beb25860b0d51b83.jpg" /></article>
-
-DETERMINATION OF FEES
+**DETERMINATION OF FEES**
 
 ****
 
 Fees are based on such factors as the degree of difficulty of a particular legal task, the amount of time involved, and the type of case.
 
 Most services normally involve research, investigation and case preparation.
+![Great Attorney - Criminal Defense - Douglasville, Georgia](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf04f11d-c877-4617-97ad-ca5bde8f4fba.jpg)
 
 At our initial meeting, we will discuss the time anticipated to resolve the case, the difficulties likely to be encountered, and the complexity of the legal issues in your particular case. 
 
@@ -100,7 +99,7 @@ In some cases, you may receive an award of attorney's fees as part your case. Th
 
 \* Share all relevant information. 
 
-Throughout the case:
+**Throughout the case:**
 
 ****
 
