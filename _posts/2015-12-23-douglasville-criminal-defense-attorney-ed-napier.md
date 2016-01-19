@@ -17,7 +17,7 @@ keywords:
   - unpreserved
   - know
 description: Douglasville Criminal Defense Attorney Ed Napier fights for you
-datePublished: '2016-01-19T23:31:04.318Z'
+datePublished: '2016-01-19T23:31:04.342Z'
 dateModified: '2016-01-19T23:30:57.693Z'
 author: []
 related: []
