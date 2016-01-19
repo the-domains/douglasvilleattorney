@@ -17,7 +17,7 @@ keywords:
   - retainer
   - certain
 description: 'How much will IT cost?(I know this is one of your BIG Questions.) Attorney Ed Napier Fees are based on such factors as the degree of difficulty of a particular legal task, the amount of time involved, and the type of case. Most services normally involve research, investigation and case preparation.'
-datePublished: '2016-01-19T23:23:15.403Z'
+datePublished: '2016-01-19T23:23:15.404Z'
 dateModified: '2016-01-19T21:53:37.148Z'
 author: []
 related: []
