@@ -1,7 +1,7 @@
 name: DouglasvilleAttorney
 favicon: null
-layout_spectrum: 0.74853
-typography_spectrum: 0.75049
+layout_spectrum: 0.49413
+typography_spectrum: 0.99706
 title: Douglasville Criminal Defense Attorney
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#4d70c4'
     - '#a8a9ad'
     - '#bfcdea'
-  brandStrength: 1
-  lightness: 1
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
